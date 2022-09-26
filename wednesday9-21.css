@@ -1,0 +1,23 @@
+.awesomeheading {
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 50px;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.pink {
+  color: pink;
+}
+.orange {
+  color: orange;
+}
+#small_purple {
+  font-size: small;
+  color: purple;
+}
